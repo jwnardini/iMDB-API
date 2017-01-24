@@ -1,0 +1,22 @@
+[
+  {
+    "id":"0001",
+    "name":"Die Hard",
+    "actors":{
+     "hero":"Bruce Willis",
+     "villain":"Alan Rickman"
+    },
+  "director": "John McTiernan"
+  },
+  {
+    "id":"0002",
+    "name":"Lethal Weapon",
+    "actors":{
+     "heroes":{
+       "main":"Mel Gibson",
+       "secondary":"Danny Glover"},
+     "villain":"Gary Busey"
+    },
+  "director":"Richard Donner"
+  }
+]

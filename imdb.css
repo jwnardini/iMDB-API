@@ -1,0 +1,14 @@
+.high-metascore {
+  background-color: green;
+  color: #44FF44;
+
+}
+.middle-metascore {
+  background-color: yellow;
+
+}
+.low-metascore {
+  background-color: red;
+  color: #FFFF44;
+
+}
